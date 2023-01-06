@@ -9,7 +9,7 @@
 
 </div>
 
-- 👋 Hi, I’m @hwanju1596
+- 👋 Hi!, I’m @hwanju1596
 - 👀 I’m interested in Typescript(React.js)
 - 📫 How to reach me hwanju1596@gmail.com
 
